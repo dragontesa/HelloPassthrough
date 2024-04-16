@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B9D0E302-4591-9540-0AF1-19A91252D6B6}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OculusXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			],
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8313d8d7e7cf4e03a33e79eb757bccba"
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"HoloLens"
+	]
+}
